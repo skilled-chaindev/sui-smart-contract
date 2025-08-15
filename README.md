@@ -7,4 +7,4 @@ Sui smart contracts by Kuna Labs.
 - [KaiFinance](https://github.com/kunalabs-io/sui-smart-contracts/tree/master/kai-finance) - A yield aggregator for Sui [https://kai.finance](https://kai.finance).
 
 <br />
-DISCLAIMER: The smart contracts in this repository are provided as is without any express or implied warranties. While we make reasonable efforts to ensure the quality of the code, the code has not been audited and we make no representations or warranties of any kind with respect to the completeness, accuracy, reliability, suitability, or availability of the smart contracts in this repository. Please do not use the code or derivates thereof in production without proper due diligence and security audits.
+DISCLAIMER: The smart contracts in this repository are provided as is without any express or implied warranties. While we make reasonable efforts to ensure the quality of the code, the code has not been audited and we make no representations or warranties of any kind with respect to the completeness, accuracy, reliability, suitability, or availability of the smart contracts in this repository. 
